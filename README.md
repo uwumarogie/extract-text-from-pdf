@@ -1,6 +1,8 @@
 # Extract Text From PDF
 
 A simple React + TypeScript + Vite application demonstrating how to extract text from PDF files directly in the browser using pdfjs-dist.
+I just want to test the package "pdfjs-dist" in test production environment before using the package for real production code.
+
 
 ## Features
 
@@ -46,5 +48,3 @@ Visit `http://localhost:5173` in your browser.
 pnpm build
 pnpm preview
 ```
-
-I just want to test this project in test production before using the code for real production code.
