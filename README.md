@@ -47,4 +47,4 @@ pnpm build
 pnpm preview
 ```
 
-I just want to test this project in production before using the code for real production code.
+I just want to test this project in test production before using the code for real production code.
