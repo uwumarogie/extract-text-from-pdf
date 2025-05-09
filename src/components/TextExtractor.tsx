@@ -114,8 +114,8 @@ export function PDFExtractorMockup() {
               )}
               {isExtracting && (
                 <div className="w-full max-w-md">
-                  <Progress value={progress} className="h-2" />
-                  <p className="text-sm text-muted-foreground mt-2">
+                  <Progress value={progress} className="h-2 text-black" />
+                  <p className="text-sm text-black mt-2">
                     Processing page {Math.ceil((4 * progress) / 100)} of 4
                   </p>
                 </div>
