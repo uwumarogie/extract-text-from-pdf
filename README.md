@@ -2,7 +2,9 @@
 
 A simple React + TypeScript + Vite application demonstrating how to extract text from PDF files directly in the browser using pdfjs-dist.
 I just want to test the package "pdfjs-dist" in test production environment before using the package for real production code.
-
+TL;DR
+Due to differences between Vite’s bundling mechanism and Next.js’s, this example does not fully address my production problems 😆 
+Still I maanage to fix the next js pdfjs-dist problem. But yeah, you have a fully working text extraction in vite using pdfjs-dist. 
 
 ## Features
 
