@@ -5,7 +5,7 @@ I just want to test the package "pdfjs-dist" in test production environment befo
 
 ### TL;DR
 Due to differences between Vite’s bundling mechanism and Next.js’s, this example does not fully address my production problems 😆 
-Still I maanage to fix the next js pdfjs-dist problem. But yeah, you have a fully working text extraction in vite using pdfjs-dist. 
+Still I manage to fix the next js pdfjs-dist problem. But yeah, you have a fully working text extraction in vite using pdfjs-dist. 
 
 ## Features
 
